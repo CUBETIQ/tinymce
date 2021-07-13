@@ -1,0 +1,8 @@
+.mce-content-body {
+    border: 1px solid #ffffff !important;
+    padding: 0 10px 0 10px;
+}
+
+.mce-content-body .mce-edit-focus {
+    border: 1px solid gray !important;
+}
